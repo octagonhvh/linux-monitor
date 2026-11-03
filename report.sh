@@ -1,0 +1,4 @@
+echo "PROJECT STATUS REPORT"
+echo "Gépnév: $(hostname)"
+echo "Aktuális felhasználo: $(whoami)"
+echo "Dátum: $(date '+%Y-%m-%d')"
