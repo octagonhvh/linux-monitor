@@ -1,1 +1,2 @@
 A projekt kiír néhány alapvető információt a linux gépről
+Teszt projekt
